@@ -149,7 +149,8 @@ shared by URL and the HTTP API caches seeded responses at the edge for a year.
 |---|---|
 | Item templates | 127 |
 | Official papers the model was derived from | 13 (2015–2026) |
-| Distinct Part 1 combinations, 2026 format | ≥ 2.9 × 10⁶¹ (counted lower bound, [`scripts/measure_capacity.py`](scripts/measure_capacity.py)) |
+| Distinct Part 1 combinations, 2026 format | ≥ 2.7 × 10⁶¹ (counted lower bound, [`scripts/measure_capacity.py`](scripts/measure_capacity.py)) |
+| Distinct whole papers | ≥ 2.7 × 10⁷² (2026 format) · ≥ 1.2 × 10⁷⁴ (2024–25 format) |
 | Thinnest Part 1 position | ≥ 203 distinct items (was 21) |
 | Part 2 extended items | 5 algebra shapes / 7,468 items · 6 word-problem shapes / 6,899 items · 12 proof figures / ~2,000 items |
 | Time to build and verify a paper | ~90 ms median, ~180 ms p95 (single core, CPython 3.11) |
